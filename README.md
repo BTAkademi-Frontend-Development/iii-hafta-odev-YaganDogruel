@@ -6,13 +6,16 @@
 
 - Kullanılacak farklı icon kütüphanelerini araştırınız ve linklerini paylaşınız.
 
+    - *[Material Desing Icons](https://materialdesignicons.com/)*
+    - *[Iconify](https://iconify.design/icon-sets/)*
+  
 - HTML ve CSS kullanarak:
 
 Bir e-ticaret ürün sayfası 
 
 Bir iletişim Sayfası
 
-Kurumsal web sayfası
+Kurumsal web sayfası : *[Kurumsal web sitesi](https://github.com/YaganDogruel/Kurumsal-Site)*
 
 Bir tane landing page
 
